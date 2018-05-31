@@ -27,6 +27,6 @@ class BoardMember{
 
 }
 
-class CEO extend BoardMember{
-  
+class CEO extends BoardMember{
+
 }
