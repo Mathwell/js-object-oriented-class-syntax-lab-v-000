@@ -26,3 +26,7 @@ class BoardMember{
  }
 
 }
+
+class CEO extend BoardMember{
+  
+}
